@@ -11,9 +11,7 @@
 
 ### 📞 Contacts
 <p>
-  <a href="https://naeilbaeumdan-songheew.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TIL Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:songheew1020@gmail.com" target="_blank"><img src="https://img.shields.io/badge/songheew1020@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/songheew/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/songheew.dev/"/></a>
+  <a href="mailto:wjddnjsdud0601@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wjddnjsdud0601@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
@@ -28,10 +26,7 @@
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/react-092220?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/flutter-246175?style=for-the-badge&logo=flutter&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </p>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
