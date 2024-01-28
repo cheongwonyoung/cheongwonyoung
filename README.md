@@ -18,12 +18,15 @@
 
 ### 💻 My Skills
 <p>
-    <img src="https://img.shields.io/badge/python-6DB33F?style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/java-FCC624?style=for-the-badge&logo=java&logoColor=black">
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mariaDB-4479A1?style=for-the-badge&logo=mariaDB&logoColor=white">
+    <img src="https://img.shields.io/badge/python-6DB33F?style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+    <img src="https://img.shields.io/badge/react-092220?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
